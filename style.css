@@ -12,8 +12,8 @@ a {
   text-decoration: none;
   background-color: rgb(88, 88, 211);
   border-radius: 10px;
-  padding-left: 1%;
-  padding-right: 1%;
+  padding-left: 3%;
+  padding-right: 3%;
   
 }
 #qualidadepaddin {
@@ -22,10 +22,10 @@ a {
 #minhafoto {
   border-radius: 50%;
 }
-#voltaparatopo{
-  width:30%;
-  height: 20px;
-  position: absolute;
-  bottom: 0;
-  left: 1;
+
+
+.center{
+    margin: 0 auto;
+    width: 400px;
+    padding: 1px;
 }
